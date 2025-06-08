@@ -434,7 +434,7 @@ const Portfolio = () => {
                 </div>
                 <h3 className="text-xl font-bold mb-2 text-white">Email</h3>
                 <a href="mailto:naikvedant82@gmail.com" className="text-blue-400 hover:text-blue-300 transition-colors text-sm sm:text-base">
-                  naikvedant82@gmail.com
+                  rutujadeshmukh267@gmail.com
                 </a>
               </div>
 
@@ -444,7 +444,7 @@ const Portfolio = () => {
                 </div>
                 <h3 className="text-xl font-bold mb-2 text-white">Phone</h3>
                 <a href="tel:+919503657153" className="text-purple-400 hover:text-purple-300 transition-colors text-sm sm:text-base">
-                  +91 9503657153
+                  +91 8605384340
                 </a>
               </div>
 
@@ -454,7 +454,7 @@ const Portfolio = () => {
                 </div>
                 <h3 className="text-xl font-bold mb-2 text-white">LinkedIn</h3>
                 <a href="#" className="text-pink-400 hover:text-pink-300 transition-colors text-sm sm:text-base">
-                  vedant2319
+                  rutu1308
                 </a>
               </div>
             </div>
@@ -462,7 +462,7 @@ const Portfolio = () => {
             <div className="text-center">
               <div className="flex items-center justify-center mb-4 hover:scale-105 transition-transform duration-300">
                 <MapPin size={24} className="text-blue-400 mr-2" />
-                <span className="text-gray-300 text-base sm:text-lg">Sawantwadi, Maharashtra, India</span>
+                <span className="text-gray-300 text-base sm:text-lg">Satara, Maharashtra, India</span>
               </div>
             </div>
           </div>
@@ -474,7 +474,7 @@ const Portfolio = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <p className="text-gray-300 text-sm sm:text-base">
-              © 2025 Vedant Naik. Crafted with passion for innovation in AI & ML.
+              © 2025 Rutuja Deshmukh. Crafted with passion for innovation in AI & ML.
             </p>
           </div>
         </div>
