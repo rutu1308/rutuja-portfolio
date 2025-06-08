@@ -31,7 +31,7 @@ const Hero = () => {
 
                 <div className="flex gap-4 justify-center flex-wrap">
                     <a
-                        href="/Rutuja_Deshmukh_Resume_IT.pdf"
+                        href="https://drive.google.com/file/d/13u4xTvjC7VDPT3bruwrNTUGsHPjGkAre/view?usp=drivesdk"
                         className="group bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-700 hover:to-indigo-700 text-white font-semibold py-3 px-8 rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl flex items-center gap-2"
                         download
                     >
