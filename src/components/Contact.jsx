@@ -108,7 +108,7 @@ const Contact = () => {
                                     <Github className="text-purple-400 group-hover:text-white" size={24} />
                                     <div>
                                         <p className="font-semibold text-white">GitHub</p>
-                                        <p className="text-gray-400 group-hover:text-gray-200">github.com/rutu1308</p>
+                                        <p className="text-gray-400 group-hover:text-gray-200">https://github.com/rutu1308</p>
                                     </div>
                                 </a>
                             </div>
